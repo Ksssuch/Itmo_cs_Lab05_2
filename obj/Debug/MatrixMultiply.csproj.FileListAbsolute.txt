@@ -1,0 +1,6 @@
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.exe
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\bin\Debug\MatrixMultiply.pdb
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csprojAssemblyReference.cache
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.csproj.CoreCompileInputs.cache
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.exe
+C:\install folder\CSharpLabs\Lab06\STARTER\MATRIXMULTIPLY\obj\Debug\MatrixMultiply.pdb
